@@ -1,10 +1,15 @@
 # 📊 Employee Database Analysis using SQL
 
 ## 📌 Project Overview
-This project demonstrates SQL fundamentals using a real-world employee dataset.  
-It covers database creation, data manipulation, and analytical queries to simulate real business scenarios.
 
----
+This project simulates how employee data is managed and analyzed in a real business environment using SQL.
+It focuses not just on writing queries, but on solving practical business problems such as salary analysis, employee segmentation, and data-driven insights.
+
+## 💼 Business Questions Solved
+- Which department has the highest average salary?
+- Who is the highest-paid employee?
+- How many employees exist per department?
+- Which employees joined after 2021?
 
 ## 🏗️ Database Design
 - Created an `employees` table with:
